@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.frame-child,
+.slide-169-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 296px;
+  object-fit: cover;
+}
+.frame-child {
+  top: 424px;
+  left: 31px;
+  width: 419px;
+  height: 368px;
+}
+.p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.p13 {
+  margin: 0;
+}
+.div {
+  position: absolute;
+  top: 15px;
+  left: 38px;
+  display: inline-block;
+  width: 412px;
+  height: 409px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 2px;
+  left: 6px;
+  width: 465px;
+  height: 792px;
+  overflow: hidden;
+}
+.frame-item {
+  position: absolute;
+  top: 426px;
+  left: 110px;
+  width: 419px;
+  height: 368px;
+  object-fit: cover;
+}
+.div1 {
+  position: absolute;
+  top: 17px;
+  left: 18px;
+  display: inline-block;
+  width: 664px;
+  height: 400px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 565px;
+  width: 682px;
+  height: 794px;
+  overflow: hidden;
+}
+.frame-inner {
+  position: absolute;
+  top: 419px;
+  left: 55px;
+  width: 419px;
+  height: 368px;
+  object-fit: cover;
+}
+.div2 {
+  position: absolute;
+  top: 10px;
+  left: 1px;
+  display: inline-block;
+  width: 569px;
+  height: 415px;
+}
+.frame-parent,
+.rectangle-container {
+  position: absolute;
+  top: 7px;
+  left: 1258px;
+  width: 570px;
+  height: 787px;
+  overflow: hidden;
+}
+.frame-parent {
+  top: 286px;
+  left: 61px;
+  width: 1828px;
+  height: 794px;
+}
+.slide-169-1 {
+  position: relative;
+  background-color: #ffbad3;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
